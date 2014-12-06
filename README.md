@@ -61,6 +61,34 @@
 ###	其他學習資源
 *	[NodeSchool](http://nodeschool.io/)
 *	[Node.js api](http://nodejs.org/api/)
+*	[Express 4.x 使用 HTTPS/SSL](http://jade.logdown.com/posts/233332-nodejs-express-4x-using-https-ssl)
+
+##	Git
+###	什麼是 Git?
+*	Git是一個分佈式版本管理系統，是為了更好地管理Linux內核開發而創立的。
+*	Git可以在任何時間點，把文檔的狀態作為更新記錄保存起來。因此可以把編輯過的文檔復原到以前的狀態，也可以顯示編輯前後的內容差異。
+*	而且，編輯舊文件後，試圖覆蓋較新的文件的時候（即上傳文件到服務器時），系統會發出警告，因此可以避免在無意中覆蓋了他人的編輯內容。
+
+###	基本 Git 操作
+[參考連結1](http://ihower.tw/git/remote.html)
+
+[參考連結2](http://gogojimmy.net/2012/01/21/how-to-use-git-2-basic-usage-and-worflow/)
+
+*	git init
+*	git clone [remote repository url]	
+*	git branch -a
+*	git branch
+*	git checkout [branchname]
+*	git remote add origin [remote repository url]
+*	git pull
+*	git push / git push -u origin master  //永遠先拉再推
+*	git merge [source branch]	
+*	git diff [branch1] [branch2]
+*	git log
+*	git reset --hard [HEAD hash]
+*	git checkout -- [filename]
+
+
 
 
 
