@@ -62,6 +62,7 @@
 *	[NodeSchool](http://nodeschool.io/)
 *	[Node.js api](http://nodejs.org/api/)
 *	[Express 4.x 使用 HTTPS/SSL](http://jade.logdown.com/posts/233332-nodejs-express-4x-using-https-ssl)
+*	[學好 Node.js 不可不知的事](http://www.slideshare.net/BenLue/nodejs-38545130)
 
 ##	Git
 ###	什麼是 Git?
@@ -87,6 +88,7 @@
 *	git log
 *	git reset --hard [HEAD hash]
 *	git checkout -- [filename]
+*	git commit --amend
 
 
 
